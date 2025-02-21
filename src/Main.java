@@ -10,5 +10,10 @@ public class Main {
         int b = 5;
         int sub = a - b;
         System.out.println(sub);
+
+        int a = 15;
+        int b = 5;
+        int Mul = a * b;
+        System.out.println(Mul);
     }
 }
